@@ -1,2 +1,13 @@
-# sql-exploratory-data--analysis-project
-An exploratory data analysis project using SQL to explore datasets, identify patterns and trends, analyze key metrics, and generate actionable insights through advanced SQL queries.
+# sql-data-analytics-project
+A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
+This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hey, I’m Nitesh — an aspiring Data Analyst with a background in Computer Science and hands-on experience in SQL and Python. I have experience building data warehouses, cleaning and organizing data, and creating data models for reporting and analysis. I’m passionate about turning data into meaningful insights and looking to apply my analytical and problem-solving skills to real-world data projects.
